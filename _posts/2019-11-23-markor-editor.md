@@ -22,4 +22,4 @@ Is there a way I can add pictures? That would be pretty awesome.
 
 2019-11-232019-11-23 03:31 am
 
-![2019_1110_15265400-01](2019_1110_15265400-01.jpeg)
+![2019_1110_15265400-01](images/2019-11-23/2019_1110_15265400-01.jpeg)
